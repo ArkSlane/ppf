@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473301622352",
+    "project_id": "purple-fox-0egmyy",
+    "storage_bucket": "purple-fox-0egmyy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473301622352:android:6778129bfb98b4967d3b55",
+        "android_client_info": {
+          "package_name": "com.mycompany.purplefox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdqGYs9HD1cvCjUryPdry3EU8Mhz81RgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
